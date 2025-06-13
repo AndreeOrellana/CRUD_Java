@@ -18,7 +18,7 @@ public class DTOUsuario {
     @Getter @Setter @Column(name = "NOMBRE")
     private String nombre;
 
-    @Getter @Setter @Column(name = "APELLIDOS")
+    @Getter @Setter @Column(name = "APELLIDO")
     private String apellido;
 
 }
